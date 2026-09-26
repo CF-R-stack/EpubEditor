@@ -983,6 +983,10 @@ decrypt("EmIhxnBkJVTwsuPQqvAcOaSyeXKDoztpYCNRFgMGrLlHiWfbUjdZ", "span[style*='TY
 decrypt("SBGwfKvctrjOmdyzXAYJWxhqReUDIaLiEFTNulPZoHgbksMpVQCn", "span[style*='utkyBOpKZY']");
 decrypt("uZCQtkAyRnJgxGVTbEXYwOBlWhvmKqoPrjdceHNDpUzfSFMaisIL", "span[style*='ytVzUUMXhQ']");
 decrypt("eOqaECAymwKpRhdcvWNLTxUHgnVXfSoMjPJkZQbDtBFGizYrIlsu", "span[style*='ZCaXtbbZml']");
+decrypt("yqRMjiGaTDVBLuZEkUSoIzvQFKCpnAHslrPxNJhecmbwXOdYWftg", "span[style*='JhNJcENGey']");
+decrypt("XtITbhULSqdrAmZsniEOYaoHMecfQKpGvzgxukNJyjCBwlWDFPRV", "span[style*='VFeOfVxHrp']");
+decrypt("ursTHUQVifBYLbMShzdwqGetkDKXJpIOCnAmlFWPZEjNgvRoxacy", "span[style*='tWrYbVzCVg']");
+decrypt("cZvpUHYrRGbSltqkIfaFPJOBCLWxgQXeEdToADMmViujKhysNnwz", "span[style*='tHCyzNXaYj']");
 
     if (!Window.epubstate) {
         Window.epubstate = new Set();
